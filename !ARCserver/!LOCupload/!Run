@@ -1,3 +1,0 @@
-WimpSlot -min 64k -max 64k
-Set LOCupload$Dir <Obey$Dir>
-Run <LOCupload$Dir>.!RunImage %*0
